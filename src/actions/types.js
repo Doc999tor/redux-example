@@ -1,0 +1,3 @@
+export const ADD_NUMBER = 'ADD_NUMBER';
+export const ADD_RANDOM_NUMBER = 'ADD_RANDOM_NUMBER';
+export const REMOVE_NUMBER = 'REMOVE_NUMBER';
